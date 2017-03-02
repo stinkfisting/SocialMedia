@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		08134A2D1E67D33100701A9D /* FeedVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08134A2C1E67D33100701A9D /* FeedVC.swift */; };
 		08819E7D1E6616A300F57414 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08819E7C1E6616A300F57414 /* AppDelegate.swift */; };
 		08819E7F1E6616A300F57414 /* SigninVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08819E7E1E6616A300F57414 /* SigninVC.swift */; };
 		08819E821E6616A300F57414 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08819E801E6616A300F57414 /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		08134A2C1E67D33100701A9D /* FeedVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedVC.swift; sourceTree = "<group>"; };
 		08819E791E6616A300F57414 /* SocialMedia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SocialMedia.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		08819E7C1E6616A300F57414 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		08819E7E1E6616A300F57414 /* SigninVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SigninVC.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				08819E7E1E6616A300F57414 /* SigninVC.swift */,
+				08134A2C1E67D33100701A9D /* FeedVC.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				08819E7F1E6616A300F57414 /* SigninVC.swift in Sources */,
 				08819E991E675B4800F57414 /* RoundBtn.swift in Sources */,
 				08819E7D1E6616A300F57414 /* AppDelegate.swift in Sources */,
+				08134A2D1E67D33100701A9D /* FeedVC.swift in Sources */,
 				08819E941E66591E00F57414 /* FancyView.swift in Sources */,
 				08819E971E6659B900F57414 /* Constants.swift in Sources */,
 				08819E9D1E6762D000F57414 /* FancyBtn.swift in Sources */,
